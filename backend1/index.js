@@ -114,7 +114,7 @@ app.get("/top-cities", async (req, res) => {
   const cityDataPromises = cities.map(async (city) => {
     try {
       const response = await axios.get(
-        `http://api.waqi.info/feed/${city.name}/?token=8f45e008c92e9c7ae7236be05cfd80103152b2e8`
+        `http://api.waqi.info/feed/${city.name}/?checkkeys`
       );
       const geo = response.data.data.city.geo;
       const aqi = response.data.data.aqi;
@@ -212,7 +212,7 @@ app.get("/top-citiesLow", async (req, res) => {
   const cityDataPromises = cities.map(async (city) => {
     try {
       const response = await axios.get(
-        `http://api.waqi.info/feed/${city.name}/?token=8f45e008c92e9c7ae7236be05cfd80103152b2e8`
+        `http://api.waqi.info/feed/${city.name}/?checkkeys`
       );
       const geo = response.data.data.city.geo;
       const aqi = response.data.data.aqi;
