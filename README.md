@@ -10,7 +10,8 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
-![Screenshot 2023-11-07 203505](https://github.com/Sumonta056/AtomSense-DU_ITVerse_Hackathon/assets/61287791/34700e9e-e241-4902-b44d-7e3800020849)
+![image](https://github.com/Sumonta056/AtomSense-DU_ITVerse_Hackathon/assets/61287791/358d569e-84bb-4cde-8495-81d8e284b582)
+
 
 
 <hr>
@@ -27,61 +28,63 @@
 
 ## 👉 Home Screen
 
-
-![Screenshot 2023-11-04 080521](https://github.com/Sumonta056/AtomSense-DU_ITVerse_Hackathon/assets/61287791/2cf20aff-cb65-41f4-a0dc-9d3655b61aac)
+![Screenshot 2023-11-04 080521](https://github.com/Sumonta056/AtomSense-DU_ITVerse_Hackathon/assets/61287791/7889055d-9208-4a14-804d-74467c7fc0d2)
 
 
 ## 👉 See List of All available Countries , States , Cities and  Air Quality and Socio-Economic Information
 
-![Screenshot 2023-11-04 080555](https://github.com/Sumonta056/AtomSense-DU_ITVerse_Hackathon/assets/61287791/505b0887-7c24-4ff4-91c0-b2490f5940b2)
+![Screenshot 2023-11-04 080555](https://github.com/Sumonta056/AtomSense-DU_ITVerse_Hackathon/assets/61287791/9cdaca67-5a23-40dd-b707-a2d2292137f7)
 
-![Screenshot 2023-11-04 080615](https://github.com/Sumonta056/AtomSense-DU_ITVerse_Hackathon/assets/61287791/f0647f27-0fc8-472b-a2e2-29a9f7c4322e)
+![Screenshot 2023-11-04 080615](https://github.com/Sumonta056/AtomSense-DU_ITVerse_Hackathon/assets/61287791/51a5fbf5-37af-4e2a-afc7-96c1766091ef)
 
-![Screenshot 2023-11-04 080624](https://github.com/Sumonta056/AtomSense-DU_ITVerse_Hackathon/assets/61287791/d9eca64c-0588-499f-9ff0-aba1f2899d32)
+![Screenshot 2023-11-04 080624](https://github.com/Sumonta056/AtomSense-DU_ITVerse_Hackathon/assets/61287791/48a7abe1-764d-49c6-851b-d6cd48150613)
 
-![Screenshot 2023-11-04 080633](https://github.com/Sumonta056/AtomSense-DU_ITVerse_Hackathon/assets/61287791/9568aada-7c3c-4098-ae8c-89048daa71be)
+![Screenshot 2023-11-04 080633](https://github.com/Sumonta056/AtomSense-DU_ITVerse_Hackathon/assets/61287791/e16190eb-0e30-4a49-8e3d-19e7f66d6b03)
 
 
 ## 👉 See information of Countries Past 10 Year Socio-Economic Information
 
-![Screenshot 2023-11-04 080707](https://github.com/Sumonta056/AtomSense-DU_ITVerse_Hackathon/assets/61287791/367a0e27-79ce-4560-b64a-96a82186e2fa)
+![Screenshot 2023-11-04 080707](https://github.com/Sumonta056/AtomSense-DU_ITVerse_Hackathon/assets/61287791/e0ed18e5-fe77-4905-9e29-a14179681709)
 
-![Screenshot 2023-11-04 080720](https://github.com/Sumonta056/AtomSense-DU_ITVerse_Hackathon/assets/61287791/ff808419-6e38-4085-aeb0-8ba98badae77)
+![Screenshot 2023-11-04 080720](https://github.com/Sumonta056/AtomSense-DU_ITVerse_Hackathon/assets/61287791/dabf9255-9554-4726-9bda-f4019ee0b785)
 
-![Screenshot 2023-11-04 080731](https://github.com/Sumonta056/AtomSense-DU_ITVerse_Hackathon/assets/61287791/7c9e0135-6402-428d-a0ac-c448b7ddc874)
+![Screenshot 2023-11-04 080731](https://github.com/Sumonta056/AtomSense-DU_ITVerse_Hackathon/assets/61287791/45017fb2-fcae-489c-bc2a-f89fa27e72e3)
+
 
 ## 👉 Search any Cities and get the information of  AQI (Air Quality Index), PM2.5 levels, PM10 levels, and ozone levels
 
-![Screenshot 2023-11-04 080824](https://github.com/Sumonta056/AtomSense-DU_ITVerse_Hackathon/assets/61287791/e8fc816e-ddc9-4257-8673-15a8cbc61dc8)
-
-![Screenshot 2023-11-04 080835](https://github.com/Sumonta056/AtomSense-DU_ITVerse_Hackathon/assets/61287791/8bf3e246-de61-4dac-b294-7caaf7ce6036)
+![Screenshot 2023-11-04 080824](https://github.com/Sumonta056/AtomSense-DU_ITVerse_Hackathon/assets/61287791/f6297edc-d990-466d-b454-81e581fbc958)
 
 
-![Screenshot 2023-11-04 080849](https://github.com/Sumonta056/AtomSense-DU_ITVerse_Hackathon/assets/61287791/076e9dc2-d0ab-4332-9abc-a6f2554a3712)
+![Screenshot 2023-11-04 080835](https://github.com/Sumonta056/AtomSense-DU_ITVerse_Hackathon/assets/61287791/33b2076d-8685-47c4-89a2-5071c686dd29)
+
+![Screenshot 2023-11-04 080849](https://github.com/Sumonta056/AtomSense-DU_ITVerse_Hackathon/assets/61287791/ded41478-b3cf-4ec6-bd77-ccf1003a97be)
 
 
-![Screenshot 2023-11-04 080858](https://github.com/Sumonta056/AtomSense-DU_ITVerse_Hackathon/assets/61287791/db915c93-ea45-4941-8125-577ec8e3ea80)
+![Screenshot 2023-11-04 080858](https://github.com/Sumonta056/AtomSense-DU_ITVerse_Hackathon/assets/61287791/02956b2f-f66e-41e2-8530-9cf6ea76a2a8)
 
 
 ## 👉 List of Top 10 Polluted Cities
 
-![Screenshot 2023-11-04 080931](https://github.com/Sumonta056/AtomSense-DU_ITVerse_Hackathon/assets/61287791/b45d118a-4e68-4415-8fb2-6867c9d796be)
+![Screenshot 2023-11-04 080931](https://github.com/Sumonta056/AtomSense-DU_ITVerse_Hackathon/assets/61287791/1a6332de-e6f9-40e8-b242-99d188a3d67a)
+
 
 ## 👉 List of Top 10 Cleanest Cities
 
-![Screenshot 2023-11-04 081143](https://github.com/Sumonta056/AtomSense-DU_ITVerse_Hackathon/assets/61287791/90e47a0c-3e5d-4649-941b-2efdfda47004)
+![Screenshot 2023-11-04 081143](https://github.com/Sumonta056/AtomSense-DU_ITVerse_Hackathon/assets/61287791/317c1f1f-3cb3-49b1-92c5-ae6db30b41e8)
+
 
 
 ## 👉 Live AQI Index with Google Maps Intregation
 
-![Screenshot 2023-11-04 081211](https://github.com/Sumonta056/AtomSense-DU_ITVerse_Hackathon/assets/61287791/1cd00583-f9d1-44ed-afd5-582d83ca820f)
-
-![Screenshot 2023-11-04 081233](https://github.com/Sumonta056/AtomSense-DU_ITVerse_Hackathon/assets/61287791/51dcf2a8-bb2a-4622-8e91-57bc0858f5e1)
-
-![Screenshot 2023-11-04 081251](https://github.com/Sumonta056/AtomSense-DU_ITVerse_Hackathon/assets/61287791/24b75dee-db2a-48fb-9ccf-bbae6f59dbf2)
+![Screenshot 2023-11-04 081251](https://github.com/Sumonta056/AtomSense-DU_ITVerse_Hackathon/assets/61287791/4e8f62c6-3221-45c8-9b3b-b3e0bee2f723)
 
 
-![Screenshot 2023-11-04 081257](https://github.com/Sumonta056/AtomSense-DU_ITVerse_Hackathon/assets/61287791/9c43a090-18f1-4a4b-b33a-1bc86b620543)
+![Screenshot 2023-11-04 081211](https://github.com/Sumonta056/AtomSense-DU_ITVerse_Hackathon/assets/61287791/a36b5b5c-b35f-461b-829c-5087ec6b523f)
+
+![Screenshot 2023-11-04 081233](https://github.com/Sumonta056/AtomSense-DU_ITVerse_Hackathon/assets/61287791/eaa16ac7-7405-4f4e-badf-566107c5131f)
+
+![Screenshot 2023-11-04 081257](https://github.com/Sumonta056/AtomSense-DU_ITVerse_Hackathon/assets/61287791/c38d8da7-6998-42ac-b2d1-79f2f1f8754e)
 
 
 </div>
